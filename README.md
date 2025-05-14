@@ -79,10 +79,6 @@ It is a real-time web-based auction system built using the MERN stack. It allows
 - 📱 Mobile app version (React Native)
 - 🔐 2FA security
   
-##Diagrams
-![image](https://github.com/user-attachments/assets/6cf12d71-30a4-44f4-838b-751ecec8fcc3)
-
-
 ## 📚 Setup & Installation
 1) Clone The Respiratory
    
