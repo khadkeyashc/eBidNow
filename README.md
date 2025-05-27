@@ -91,3 +91,8 @@ npm install
 cd client
 npm start
 
+
+3)Run the development servers
+# Backend
+cd server
+nodemon
