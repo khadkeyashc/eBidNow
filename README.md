@@ -92,8 +92,6 @@ nodemon
 
 
 
-# Frontend
-cd client
-npm start
+
 
 
