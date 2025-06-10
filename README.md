@@ -95,8 +95,6 @@ nodemon
 cd client
 npm start
 
-# Frontend
-cd client
-npm start
+
 
 
