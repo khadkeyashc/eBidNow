@@ -90,9 +90,6 @@ npm install
 cd server
 nodemon
 
-# Frontend
-cd client
-npm start
 
 
 
