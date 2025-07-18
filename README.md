@@ -87,5 +87,14 @@ cd client
 npm install
 
 
+3)Run the development servers
+# Backend
+cd server
+nodemon
+
+
+# Frontend
+cd client
+npm start
 
 
