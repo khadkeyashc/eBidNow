@@ -86,15 +86,6 @@ It is a real-time web-based auction system built using the MERN stack. It allows
 cd client
 npm install
 
-3)Run the development servers
-# Backend
-cd server
-nodemon
-
-
-# Frontend
-cd client
-npm start
 
 
 
